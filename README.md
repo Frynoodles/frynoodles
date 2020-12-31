@@ -21,4 +21,4 @@
  ![](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
  ## Social  
  [![](https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ilovefrynoodle1)
- [![](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bilibili.svg)](https://space.bilibili.com/29325500)
+ [![](https://img.shields.io/badge/%5B%5D~(%EF%BF%A3%E2%96%BD%EF%BF%A3)~*-bilibili-ff69b4)](https://space.bilibili.com/29325500)
