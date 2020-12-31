@@ -22,3 +22,7 @@
  ## Social  
  [![](https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ilovefrynoodle1)
  [![](https://img.shields.io/badge/%5B%5D~(%EF%BF%A3%E2%96%BD%EF%BF%A3)~*-bilibili-ff69b4)](https://space.bilibili.com/29325500)
+## Tools  
+![](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
