@@ -1,9 +1,10 @@
-![](pic/ireina.jpg)
-## 早啊（笑 👋  
- ![](https://visitor-badge.glitch.me/badge?page_id=frynoodles.readme)  
- ![](http://antzuhl.cn:4000/get/@frynoodles.readme)  
- ![info](https://github-readme-stats.vercel.app/api?username=frynoodles&show_icons=true&count_private=true&hide=prs&theme=dark)  
- ![](https://readme-jokes.vercel.app/api)
+![](pic/ireina2.jpg)
+## 早啊（笑 👋
+ ![](https://visitor-badge.glitch.me/badge?page_id=frynoodles.readme)
+ ![](http://antzuhl.cn:4000/get/@frynoodles.readme)
+ ![info](https://github-readme-stats.vercel.app/api?username=frynoodles&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frynoodles&hide=TeX&layout=compact)
  ## Language
  ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -26,3 +27,4 @@
 ![](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![](https://img.shields.io/badge/Editor-VisualStudio-blue?style=flat-square&logo=visual-studio&logoColor=white)
