@@ -1,9 +1,8 @@
 ![](pic/ireina2.jpg)
 ## 早啊（笑 👋
- ![](https://visitor-badge.glitch.me/badge?page_id=frynoodles.readme)
- ![](http://antzuhl.cn:4000/get/@frynoodles.readme)
- ![info](https://github-readme-stats.vercel.app/api?username=frynoodles&show_icons=true&count_private=true&hide=prs&theme=dark)
+ ![](https://visitor-badge.glitch.me/badge?page_id=frynoodles.readme)  
 
+ ![info](https://github-readme-stats.vercel.app/api?username=frynoodles&show_icons=true&count_private=true&hide=prs&theme=dark)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frynoodles&hide=TeX&layout=compact)
  ## Language
  ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
