@@ -1,6 +1,5 @@
 ![](pic/ireina2.jpg)
-## 早啊（笑 👋
- ![](https://visitor-badge.glitch.me/badge?page_id=frynoodles.readme)
+
 
  ![info](https://github-readme-stats.vercel.app/api?username=frynoodles&show_icons=true&count_private=true&hide=prs&theme=dark)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frynoodles&hide=TeX&layout=compact)
@@ -18,11 +17,3 @@
  ![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
  ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
  ![](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-## Framework
- ![](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
- ![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-## Tools
-![](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-![](https://img.shields.io/badge/Editor-VisualStudio-purple?style=flat-square&logo=visual-studio-code&logoColor=white)
