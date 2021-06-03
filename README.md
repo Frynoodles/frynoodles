@@ -1,6 +1,6 @@
 ![](pic/ireina2.jpg)
 
-![:frynoodles](https://count.getloli.com/get/@:frynoodles)
+![:frynoodles](https://count.getloli.com/get/@:frynoodles)  
  ![info](https://github-readme-stats.vercel.app/api?username=frynoodles&show_icons=true&count_private=true&hide=prs&theme=dark)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frynoodles&hide=TeX&layout=compact)
   ## Social
